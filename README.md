@@ -1,1 +1,1 @@
-# casestudy_telemarketinganalysis
+# Casestudy_Partnerstudio
